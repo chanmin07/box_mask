@@ -25,3 +25,4 @@ cv.imshow('origin',roi_gray)
 cv.imshow('box_mask',output_box)
 cv.waitKey(0)
 cv.destroyAllWindows()
+#박스 마스크
